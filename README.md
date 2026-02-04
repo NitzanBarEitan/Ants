@@ -2,6 +2,11 @@
 
 A collection of notebooks and scripts for analyzing ant-driven pendulum experiments, including video processing, coordinate tracking, simulation, and data analysis.
 
+## Authors
+
+| [![Nitzan](https://img.shields.io/badge/Nitzan_Bar_Eitan-black?style=for-the-badge&logo=github)](https://github.com/NitzanBarEitan) | [![Partner](https://img.shields.io/badge/notagoodprogramer-black?style=for-the-badge&logo=github)](https://github.com/notagoodprogramer) |
+| :---: | :---: |
+
 ## Repository Structure
 
 ```
