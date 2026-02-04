@@ -4,7 +4,7 @@ A collection of notebooks and scripts for analyzing ant-driven pendulum experime
 
 ## Authors
 
-| [![Partner](https://img.shields.io/badge/Avshalom_Mezer_Kedar-black?style=for-the-badge&logo=github)](https://github.com/notagoodprogramer) | [![Nitzan](https://img.shields.io/badge/Nitzan_Bar_Eitan-black?style=for-the-badge&logo=github)](https://github.com/NitzanBarEitan) |
+| [![Partner](https://img.shields.io/badge/Avshalom_Mezer_Keydar-black?style=for-the-badge&logo=github)](https://github.com/notagoodprogramer) | [![Nitzan](https://img.shields.io/badge/Nitzan_Bar_Eitan-black?style=for-the-badge&logo=github)](https://github.com/NitzanBarEitan) |
 | :---: | :---: |
 
 ## Repository Structure
